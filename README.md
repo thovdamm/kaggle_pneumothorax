@@ -2,8 +2,8 @@
 
 ## TODO :
 
--[ ] Data generator
+- [ ] Data generator
 
--[ ] U-NET (Currently tf.keras)
+- [ ] U-NET (Currently tf.keras)
 
--[ ] Evaluation and logging
+- [ ] Evaluation and logging
